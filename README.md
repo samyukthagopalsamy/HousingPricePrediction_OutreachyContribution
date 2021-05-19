@@ -1,2 +1,3 @@
-# HousingPricePrediction_OutreachyContribution
-Notebook submitted for Outreachy Mozilla Data Team project.
+### Outreachy May 2021 Round 
+### FOSS : Mozilla Firefox Data Team 
+### Project : Identifying Usage Personalities in Firefox
